@@ -21,7 +21,7 @@
   
 </div><br/>
 <div>
-  ![Agamenon GitHub stats](https://github-readme-stats.vercel.app/api?username=agamenonnascimento&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+  💻 Desenvolvedor com mais de 30 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas no mundo da programação.
 </div>
 
 
