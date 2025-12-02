@@ -17,9 +17,12 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-  ![AgamenonNascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ 
   
 </div><br/>
+<div>
+  ![AgamenonNascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=agamenonnascimento&show_icons=true&theme=radical)
+</div>
 
 
 <!--
